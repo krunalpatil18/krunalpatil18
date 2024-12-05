@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Patil Krunal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdnp3.stackassets.com/fa6fd1e226152eba86fa65cef159cde3d5a40517/store/fd9cf709c1417e2cabff70f3d3d2b3be06d0becd1df0cccfc661d327a3a7/sale_229497_primary_image.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalpatil18&label=Profile%20views&color=0e75b6&style=flat" alt="krunalpatil18" /> </p>
